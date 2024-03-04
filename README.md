@@ -9,7 +9,7 @@ Pengerjaan tugas dimulai dari:
 
    c. Exploratory Data Analysis
 
-   d. Visualization % Explanatory Analysis
+   d. Visualization & Explanatory Analysis
 
    e. Conclusion
 2. Dashboard menggunakan streamlit
